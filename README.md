@@ -1,0 +1,2 @@
+# equities
+Momentum Trading Database
